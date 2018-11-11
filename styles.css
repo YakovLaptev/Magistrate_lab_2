@@ -1,0 +1,16 @@
+body {
+    padding: 50px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 2px solid green;
+    padding: 7px;
+}
+
+td:last-child {
+    text-align: center;
+}

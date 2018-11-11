@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<specialEvents count="3" xmlns="localhost/xml_labs/lab_2">
+    <specialEvent>
+        <id>d8bA4kF1</id>
+        <eventName>Защита лабораторной работы номер 1</eventName>
+        <eventDate>2018-10-15T14:00:00</eventDate>
+        <specialEventAbout>Защита будет проходить в кабинете 404а корпуса 4. Группа ИСТм-118</specialEventAbout>
+        <specialEventStatus>New</specialEventStatus>
+        <specialEventCreator>
+            <firstname>Лаптев</firstname>
+            <middleName>Яков</middleName>
+            <lastname>Дмитриевич</lastname>
+            <rank>48</rank>
+        </specialEventCreator>
+    </specialEvent>
+    <specialEvent>
+        <id>d8bA2kF1</id>
+        <eventName>Защита лабораторной работы номер 2</eventName>
+        <eventDate>2018-10-17T15:00:00</eventDate>
+        <specialEventAbout>Защита будет проходить в кабинете 414 корпуса 4. Группа ИСТм-118</specialEventAbout>
+        <specialEventStatus>Run</specialEventStatus>
+        <specialEventCreator>
+            <firstname>Аксенов</firstname>
+            <middleName>Никита</middleName>
+            <lastname>Алексеевич</lastname>
+            <rank>33</rank>
+        </specialEventCreator>
+    </specialEvent>
+    <specialEvent>
+        <id>d8bs4kF1</id>
+        <eventName>Защита лабораторной работы номер 2</eventName>
+        <eventDate>2018-10-16T13:30:00</eventDate>
+        <specialEventAbout>Защита будет проходить в кабинете 414 корпуса 4. Группа ИСТм-118</specialEventAbout>
+        <specialEventStatus>Stop</specialEventStatus>
+        <specialEventCreator>
+            <firstname>Лаптев</firstname>
+            <middleName>Яков</middleName>
+            <lastname>Дмитриевич</lastname>
+            <rank>48</rank>
+        </specialEventCreator>
+    </specialEvent>
+</specialEvents>
+
+<!--!!!!!!!!!!!!!!!!!!!!!!!!!дОБАВИТЬ ИНТЕГЕР-->
